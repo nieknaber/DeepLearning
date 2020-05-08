@@ -1,0 +1,1 @@
+Ea continues to refuse to write this native to the mac, and instead uses WINE to adapt it -- resulting in disasters where you lose your families, get freezes and crashes, and other bizarre behavior.  Plus it runs slow.

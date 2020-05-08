@@ -1,0 +1,1 @@
+It takes too long to download the game. We tried last night, the download failed with timeout. We are trying today, the download progress does not even update for long time. There is no proper indication that the download is still happening.

@@ -1,0 +1,1 @@
+The timer in the game stops and everything stops, mostly in the travel portion.<br />Also guy keeps getting stuck inside walls.

@@ -1,0 +1,1 @@
+A little struggle with running properly on Windows 8, but once we figured it all out, it worked great.

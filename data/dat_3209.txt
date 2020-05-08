@@ -1,0 +1,1 @@
+This is just a simple shoot'um up game, pretty much.  You move your units from state to state, and if there's an enemy unit in the state you move into, there's a battle. If you like rapid, relentless tapping on your keyboard (which aggravates my tendonitis), you'll love this game.

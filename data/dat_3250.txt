@@ -1,0 +1,1 @@
+It requires a constant online connection without even the slightest interruption. I could not get it to work, even though pings to external sites were constant.

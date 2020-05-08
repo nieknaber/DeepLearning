@@ -1,0 +1,1 @@
+Installed all the patches today (I'd been away from it for a while), tried to run it, and BAM, it crashes on launch.  Good thing I can download a backup copy from GoG...maybe that one will work.

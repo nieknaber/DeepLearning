@@ -1,0 +1,1 @@
+Most games don't work on all computers regardless of whether your computer is 64 or 32 bit.<br />Red Alert 2 is a big example.

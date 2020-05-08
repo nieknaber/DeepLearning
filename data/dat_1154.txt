@@ -1,0 +1,1 @@
+You must have a &#34;shader model 3&#34; graphics card...this is NOT something you can download/update - it's hardware.  Check first.

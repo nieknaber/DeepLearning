@@ -1,0 +1,1 @@
+If you've installed Cities in Motion using Steam, this expansion won't work unless you copy the files into the proper directory. Just install the expansion to any directory, like even your desktop and then copy and paste the files into the directory of the cities in motion game. Usually - C:\Program Files\Steam\SteamApps\Common\cities in motion

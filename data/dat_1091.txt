@@ -1,0 +1,1 @@
+1 month since release and not a single patch or hot-fix from Firaxis to address the full-screen resolution bug for 120hz/144hz  monitors which limits users to only run in windowed mode @ a max resolution of 1600 x 900.

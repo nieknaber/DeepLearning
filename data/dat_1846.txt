@@ -1,0 +1,1 @@
+Single player game that requires persistent connection to the EA servers to play.  Servers bogged down and prone to disruption. Only simulation here is a terrible business model.

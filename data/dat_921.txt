@@ -1,0 +1,1 @@
+I tried implementing this through the Sims Store online; the Hidden city and chocolate fountain throw errors.  It tells me to check my Log, but I cannot get direction to find the &#34;Log&#34;.

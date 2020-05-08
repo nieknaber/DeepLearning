@@ -1,0 +1,1 @@
+The software does NOT run on a PC with Windows 7; the controls do not work. It was written back in the DOS days but they did not bother to mention that it won't work on newer systems.

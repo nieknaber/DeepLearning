@@ -1,0 +1,1 @@
+When I try to play it says there was an error initializing direct3d. Device not available. Please help me ASAP

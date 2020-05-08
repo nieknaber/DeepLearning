@@ -1,0 +1,1 @@
+Great game...got it to work on laptop with Intel hd 4400 chip. basically ensure you use latest graphics drivers from Intel website and not the oem. There are steps to show you how to do it, so Google it. Biggest downside is lag issues, but it is playable...wish the game had a campaign mode then it would get 5 stars

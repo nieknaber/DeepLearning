@@ -1,0 +1,1 @@
+The mouse movement of player NOT work – you can not turn to left or to right (look around), only to move to left or right through keys.<br />Tested on Windows 7 Ultimate, 4GB RAM, GT630. This is the only one game that have such problem – so IRRITATINGLY

@@ -1,0 +1,1 @@
+The developers stopped supporting this game a while ago, and have since taken down the teamspeak server.  There is a fan run TS server, which is the only way to find games. The bug report address doesn't work (exchange server is down) and password resets also don't work (that is down too).

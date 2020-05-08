@@ -1,0 +1,1 @@
+When I click play on my Steam profile, it says i installed the game and launches, but instead of jumping into the game, it instead's shows me a screen of it finishing the installation with the bottom bar saying 'done' but the top stays at 77% forever.

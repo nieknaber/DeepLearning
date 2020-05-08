@@ -1,0 +1,1 @@
+No instructions, no PDF, no explanations for why things work (or more often don't work), can't change the data files (even though they're .txt files) and (at least for me) only ran from the install and would never run (even in compatibility mode) on Win7.  Adrenal Rush games rushed this out the door without doing a check-flight much less even a walk-around.

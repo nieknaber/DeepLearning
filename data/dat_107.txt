@@ -1,0 +1,1 @@
+I need some help to get the game working. My pc is a Dell notebook running windows 7 64 bit. When I launched the game, I got this error: &#34;Mobile Interl(4) Series Express Chipset Family&#34; GPU does not support DirectX 10.0. Any help? Tnx.

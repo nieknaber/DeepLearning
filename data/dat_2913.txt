@@ -1,0 +1,1 @@
+Game needed an OLDER version of MS C++ than is on my 4 year old computer.  How would I know that?

@@ -1,0 +1,1 @@
+While playing the game. The video had flashes and sometimes blocked the middle of the game screen for a few seconds. Tried all types of video setting in windows, but it still would occur. Otherwise the game installed correctly, and started and played normal when the flashes did not appear.

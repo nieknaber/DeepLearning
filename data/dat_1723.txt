@@ -1,0 +1,1 @@
+Not big on graphics or animation, but this is a strong little chess program that is simple to use and doesn't make your CPU work overtime the way Chessmaster and Fritz can. I'm an average player and haven't won a game yet at mid-level, but I sense a strong player could probably beat this program in a short amount of time. Okay though for beginners and intermediate players.

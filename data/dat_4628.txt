@@ -1,0 +1,1 @@
+really fun, but a recent patch made the game display in french and if you remove the french files the game crashes after the into sequence.
